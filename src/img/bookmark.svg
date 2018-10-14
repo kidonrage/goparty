@@ -1,0 +1,15 @@
+<svg id="bookmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.267 24.085">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #00053e;
+      }
+    </style>
+  </defs>
+  <path id="Path_459" data-name="Path 459" class="cls-1" d="M0,0H23.267V24.085H0Z"/>
+  <path id="Path_460" data-name="Path 460" class="cls-2" d="M16.634,3H6.939A1.98,1.98,0,0,0,5,5.007V21.064l6.786-3.011,6.786,3.011V5.007A1.98,1.98,0,0,0,16.634,3Zm0,15.053-4.847-2.188L6.939,18.053V5.007h9.695Z" transform="translate(-0.153 0.011)"/>
+</svg>
